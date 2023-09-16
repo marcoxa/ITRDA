@@ -50,7 +50,9 @@ The analysis is was conducted in February/March 2023.  New RDAs and
 RSs may have been passed in the interim.
 
 Please open issues on the github interface, if you feel you found an
-error, or if you have new information you feel needs to be added
+error, or if you have new information you feel needs to be added, please
+let me know.  Note that Github refused to upload some of the documents,
+mostly due to their size.
 
 Marco Antoniotti
 
